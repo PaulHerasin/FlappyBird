@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: none;
+  box-sizing: border-box;
+  outline: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+button {
+  background: #2bebb0;
+  color: #fff;
+  padding: 5px 15px;
+  border-radius: 10px;
+  margin: 100px;
+}
+
+input {
+  border: 2px solid #000;
+}
+
+.background--active {
+  background: #000;
+  transition: 0.5s;
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: none;
+    box-sizing: border-box;
+    outline: 0;
+    list-style: none;
+    text-decoration: none;
+    //    font-family: 'Roboto Mono';
+}
+
+button {
+    background: rgb(43, 235, 176);
+    color: #fff;
+    padding: 5px 15px;
+    border-radius: 10px;
+    margin: 100px;
+}
+
+.background--active {
+    background: #000;
+    transition: 0.5s;
+}
